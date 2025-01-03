@@ -1,3 +1,15 @@
-# To-Do-List
-This is a simple, user-friendly To-Do list built with HTML, CSS, and JavaScript. The list allows users to add, remove, and store tasks in the browser's local storage, so they persist even after the page is reloaded.
+# Alttags To-Do List
 
+Dies ist eine einfache To-Do-Liste, die mit HTML, CSS und JavaScript entwickelt wurde. Sie speichert Aufgaben lokal im Browser und schützt vor XSS-Angriffen.
+
+## Installation
+
+1. Repository klonen:
+   ```bash
+   git clone https://github.com/dein-benutzername/alttags-todo-liste.git
+   ```
+
+2. Öffne die `index.html` Datei in deinem Browser, um die To-Do-Liste zu verwenden.
+
+## Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert.
